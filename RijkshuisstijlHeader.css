@@ -1,0 +1,7 @@
+RijkshuisstijlHeadercss/* latin */
+@font-face {
+ font-family: "rijksoverheidsansheading";
+ font-style: Bold;
+ src: url("https://github.com/SLKTH/rijksoverheidfonts/raw/refs/heads/master/rijksoverheidsansheading-bold.ttf") format("truetype");
+ font-weight: 400;
+}
